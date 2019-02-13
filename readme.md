@@ -1,4 +1,4 @@
-# Project3
+# reinforcement learning
 This project is about building a reinforcement learning agent. In particular, you will have to build a Frogger agent, who must navigate its way home.
 ## Environment
 * Python 2.7.15
